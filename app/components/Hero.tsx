@@ -68,7 +68,7 @@ export default function Hero() {
           {/* TEXT */}
           <div>
             <p className="text-sm text-gray-500">Projects Delivered</p>
-            <h3 className="text-xl font-bold text-gray-900">24+</h3>
+            <h3 className="text-xl font-bold text-gray-900">2+</h3>
           </div>
         </div>
       </div>
